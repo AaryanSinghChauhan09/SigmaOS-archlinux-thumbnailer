@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-thumbnailer"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-thumbnailer component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
